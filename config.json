@@ -1,0 +1,12 @@
+{
+	"http" : {
+		"port" : 8080
+	},
+	"udp" : {
+		"port" : 47764,
+		"target" : {
+			"host" : "localhost",
+			"port" : 47763
+		}
+	}
+}
